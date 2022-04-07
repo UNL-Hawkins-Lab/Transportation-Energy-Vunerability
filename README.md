@@ -1,4 +1,4 @@
-# Transportation-Energy-Vunerability
+# Transportation-Energy-Vunerability code, supporting the analysis outcomes presented in the Sustainable Cities and Society paper [link](https://doi.org/10.1016/j.scs.2022.103805).
 ## File Description    
 **Transportation energy vulnerability analysis at census tract level**
 1. Shapefiles  
