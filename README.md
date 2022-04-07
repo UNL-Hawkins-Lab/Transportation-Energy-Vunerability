@@ -1,5 +1,5 @@
 # Transportation-Energy-Vunerability code
-The documented code is supporting the analysis outcomes presented in the Sustainable Cities and Society paper [link](https://doi.org/10.1016/j.scs.2022.103805).
+The documented code is supporting the analysis outcomes presented in our Sustainable Cities and Society paper, titled Quantifying transportation energy vulnerability and its spatial patterns in the US [link](https://doi.org/10.1016/j.scs.2022.103805).
 ## File Description    
 **Transportation energy vulnerability analysis at census tract level**
 1. Shapefiles  
